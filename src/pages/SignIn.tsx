@@ -40,7 +40,7 @@ export function SignIn() {
             <TextInput.Input
               id="email"
               type="email"
-              placeholder="pedro.mascarenhas@ignitelab.com"
+              placeholder="Digite seu e-mail"
             />
           </TextInput.Root>
         </label>
